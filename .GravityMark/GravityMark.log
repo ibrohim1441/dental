@@ -1,0 +1,177 @@
+GravityMark 1.68b Started (2022-08-11 13:25:40)
+2022-08-11 13:25:40   4 ms: ../data.zip: 313 files
+2022-08-11 13:25:40  16 ms: Build Date: Jul 29 2022
+2022-08-11 13:25:40  16 ms: Build Info: release; fusion; d3d12=6; d3d11=2; vk=1; gl=45; cu=1
+2022-08-11 13:25:40  16 ms: Build Version: 1.68b
+2022-08-11 13:25:41 254 ms: Name: LNVNB161216 LENOVO
+2022-08-11 13:25:41 254 ms: System: Майкрософт Windows 10 Pro
+2022-08-11 13:25:41 254 ms: Kernel: 10.0.19044
+2022-08-11 13:25:41 254 ms: Memory: 7.79 GB
+2022-08-11 13:25:41 254 ms: Uptime: 2 m 11 s
+2022-08-11 13:25:41 254 ms: CPU: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz
+2022-08-11 13:25:41 254 ms: GPU 0: NVIDIA GeForce RTX 3050 Laptop GPU
+2022-08-11 13:25:41 254 ms: Device: PCI\VEN_10DE&DEV_25A2&SUBSYS_3A5B17AA&REV_A1\4&59AA1C2&0&00E0
+2022-08-11 13:25:41 254 ms: Version: 512.36
+2022-08-11 13:25:41 254 ms: Memory: 4.00 GB
+2022-08-11 13:25:41 254 ms: GPU 1: Intel(R) Iris(R) Xe Graphics
+2022-08-11 13:25:41 254 ms: Device: PCI\VEN_8086&DEV_9A49&SUBSYS_3A5B17AA&REV_01\3&11583659&0&10
+2022-08-11 13:25:41 254 ms: Version: 30.0.101.1960
+2022-08-11 13:25:41 254 ms: Memory: 1.00 GB
+2022-08-11 13:25:41 256 ms: Desktop: 1920x1080 1.0
+2022-08-11 13:25:41 256 ms: Screen 0: 1920x1080 0 0 \\.\DISPLAY1 Intel(R) Iris(R) Xe Graphics
+2022-08-11 13:25:41 256 ms: Creating 1600x900 Vulkan Window
+2022-08-11 13:25:43 858 ms: Render Size: 1600x900
+2022-08-11 13:25:43 858 ms: Using Fetch Mode
+2022-08-11 13:25:44 385 ms: Device: NVIDIA GeForce RTX 3050 Laptop GPU
+2022-08-11 13:25:44 386 ms: Vendor: Nvidia
+2022-08-11 13:25:44 386 ms: Version: 4.0.144.0
+2022-08-11 13:25:44 386 ms: DeviceID: 0x25a2
+2022-08-11 13:25:44 387 ms: Group Memory: 48.00 KB
+2022-08-11 13:25:44 387 ms: Video Memory: 3.90 GB
+2022-08-11 13:25:44 387 ms: Max Uniform Size: 64.00 KB
+2022-08-11 13:25:44 387 ms: Max Storage Size: 4.00 GB
+2022-08-11 13:25:44 387 ms: Creating SceneManager
+2022-08-11 13:25:46 637 ms: Creating RenderManager
+2022-08-11 13:25:48 356 ms: Rasterization Mode
+2022-08-11 13:25:48 357 ms: Creating Scene
+2022-08-11 13:25:50  27 ms: Creating 200,000 Asteroids
+2022-08-11 13:25:50 280 ms: Updating Scene
+2022-08-11 13:25:50 473 ms: GravityMark 1.68b Vulkan is Ready in 10.5 s
+2022-08-11 13:25:50 473 ms: Resizing 1600x900 frame
+2022-08-11 13:26:04 918 ms: Resizing 1920x1001 frame
+2022-08-11 13:26:07 188 ms: Resizing 1600x900 frame
+2022-08-11 13:26:30 768 ms: Clearing Scene
+2022-08-11 13:26:30 932 ms: GravityMark 1.68b Done
+GravityMark 1.68b Finished (2022-08-11 13:25:40)
+
+GravityMark 1.68b Started (2022-08-11 13:28:26)
+2022-08-11 13:28:26   6 ms: ../data.zip: 313 files
+2022-08-11 13:28:26  26 ms: Build Date: Jul 29 2022
+2022-08-11 13:28:26  26 ms: Build Info: release; fusion; d3d12=6; d3d11=2; vk=1; gl=45; cu=1
+2022-08-11 13:28:26  26 ms: Build Version: 1.68b
+2022-08-11 13:28:27 376 ms: Name: LNVNB161216 LENOVO
+2022-08-11 13:28:27 376 ms: System: Майкрософт Windows 10 Pro
+2022-08-11 13:28:27 376 ms: Kernel: 10.0.19044
+2022-08-11 13:28:27 376 ms: Memory: 7.79 GB
+2022-08-11 13:28:27 376 ms: Uptime: 53.30 s
+2022-08-11 13:28:27 376 ms: CPU: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz
+2022-08-11 13:28:27 376 ms: GPU 0: NVIDIA GeForce RTX 3050 Laptop GPU
+2022-08-11 13:28:27 376 ms: Device: PCI\VEN_10DE&DEV_25A2&SUBSYS_3A5B17AA&REV_A1\4&59AA1C2&0&00E0
+2022-08-11 13:28:27 376 ms: Version: 512.36
+2022-08-11 13:28:27 376 ms: Memory: 4.00 GB
+2022-08-11 13:28:27 376 ms: GPU 1: Intel(R) Iris(R) Xe Graphics
+2022-08-11 13:28:27 376 ms: Device: PCI\VEN_8086&DEV_9A49&SUBSYS_3A5B17AA&REV_01\3&11583659&0&10
+2022-08-11 13:28:27 376 ms: Version: 30.0.101.1960
+2022-08-11 13:28:27 376 ms: Memory: 1.00 GB
+2022-08-11 13:28:27 378 ms: Desktop: 1920x1080 1.0
+2022-08-11 13:28:27 378 ms: Screen 0: 1920x1080 0 0 \\.\DISPLAY1 Intel(R) Iris(R) Xe Graphics
+2022-08-11 13:28:27 380 ms: Creating 1600x900 Vulkan Window
+2022-08-11 13:28:29 656 ms: Render Size: 1600x900
+2022-08-11 13:28:29 658 ms: Using Fetch Mode
+2022-08-11 13:28:30 160 ms: Device: NVIDIA GeForce RTX 3050 Laptop GPU
+2022-08-11 13:28:30 160 ms: Vendor: Nvidia
+2022-08-11 13:28:30 160 ms: Version: 4.0.144.0
+2022-08-11 13:28:30 161 ms: DeviceID: 0x25a2
+2022-08-11 13:28:30 161 ms: Group Memory: 48.00 KB
+2022-08-11 13:28:30 161 ms: Video Memory: 3.90 GB
+2022-08-11 13:28:30 161 ms: Max Uniform Size: 64.00 KB
+2022-08-11 13:28:30 161 ms: Max Storage Size: 4.00 GB
+2022-08-11 13:28:30 161 ms: Creating SceneManager
+2022-08-11 13:28:30 346 ms: Creating RenderManager
+2022-08-11 13:28:30 528 ms: Rasterization Mode
+2022-08-11 13:28:30 528 ms: Creating Scene
+2022-08-11 13:28:32 101 ms: Creating 200,000 Asteroids
+2022-08-11 13:28:32 360 ms: Updating Scene
+2022-08-11 13:28:32 554 ms: GravityMark 1.68b Vulkan is Ready in 6.5 s
+2022-08-11 13:28:32 554 ms: Resizing 1600x900 frame
+2022-08-11 13:29:26 677 ms: Clearing Scene
+2022-08-11 13:29:26 848 ms: GravityMark 1.68b Done
+GravityMark 1.68b Finished (2022-08-11 13:28:26)
+
+GravityMark 1.68b Started (2022-08-11 13:29:47)
+2022-08-11 13:29:47   1 ms: ../data.zip: 313 files
+2022-08-11 13:29:47   3 ms: Build Date: Jul 29 2022
+2022-08-11 13:29:47   3 ms: Build Info: release; fusion; d3d12=6; d3d11=2; vk=1; gl=45; cu=1
+2022-08-11 13:29:47   3 ms: Build Version: 1.68b
+2022-08-11 13:29:48 224 ms: Name: LNVNB161216 LENOVO
+2022-08-11 13:29:48 224 ms: System: Майкрософт Windows 10 Pro
+2022-08-11 13:29:48 224 ms: Kernel: 10.0.19044
+2022-08-11 13:29:48 224 ms: Memory: 7.79 GB
+2022-08-11 13:29:48 224 ms: Uptime: 2 m 14 s
+2022-08-11 13:29:48 224 ms: CPU: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz
+2022-08-11 13:29:48 224 ms: GPU 0: NVIDIA GeForce RTX 3050 Laptop GPU
+2022-08-11 13:29:48 224 ms: Device: PCI\VEN_10DE&DEV_25A2&SUBSYS_3A5B17AA&REV_A1\4&59AA1C2&0&00E0
+2022-08-11 13:29:48 224 ms: Version: 512.36
+2022-08-11 13:29:48 224 ms: Memory: 4.00 GB
+2022-08-11 13:29:48 224 ms: GPU 1: Intel(R) Iris(R) Xe Graphics
+2022-08-11 13:29:48 224 ms: Device: PCI\VEN_8086&DEV_9A49&SUBSYS_3A5B17AA&REV_01\3&11583659&0&10
+2022-08-11 13:29:48 224 ms: Version: 30.0.101.1960
+2022-08-11 13:29:48 224 ms: Memory: 1.00 GB
+2022-08-11 13:29:48 228 ms: Desktop: 1920x1080 1.0
+2022-08-11 13:29:48 228 ms: Screen 0: 1920x1080 0 0 \\.\DISPLAY1 Intel(R) Iris(R) Xe Graphics
+2022-08-11 13:29:48 228 ms: Creating 1600x900 Vulkan Window
+2022-08-11 13:29:48 521 ms: Render Size: 1600x900
+2022-08-11 13:29:48 521 ms: Using Fetch Mode
+2022-08-11 13:29:48 750 ms: Device: NVIDIA GeForce RTX 3050 Laptop GPU
+2022-08-11 13:29:48 750 ms: Vendor: Nvidia
+2022-08-11 13:29:48 750 ms: Version: 4.0.144.0
+2022-08-11 13:29:48 750 ms: DeviceID: 0x25a2
+2022-08-11 13:29:48 750 ms: Group Memory: 48.00 KB
+2022-08-11 13:29:48 750 ms: Video Memory: 3.90 GB
+2022-08-11 13:29:48 750 ms: Max Uniform Size: 64.00 KB
+2022-08-11 13:29:48 750 ms: Max Storage Size: 4.00 GB
+2022-08-11 13:29:48 750 ms: Creating SceneManager
+2022-08-11 13:29:48 941 ms: Creating RenderManager
+2022-08-11 13:29:49  89 ms: Rasterization Mode
+2022-08-11 13:29:49  89 ms: Creating Scene
+2022-08-11 13:29:50 426 ms: Creating 200,000 Asteroids
+2022-08-11 13:29:50 663 ms: Updating Scene
+2022-08-11 13:29:50 891 ms: GravityMark 1.68b Vulkan is Ready in 3.9 s
+2022-08-11 13:29:50 892 ms: Resizing 1600x900 frame
+2022-08-11 13:30:02 186 ms: Clearing Scene
+2022-08-11 13:30:02 343 ms: GravityMark 1.68b Done
+GravityMark 1.68b Finished (2022-08-11 13:29:47)
+
+GravityMark 1.68b Started (2022-08-11 13:31:12)
+2022-08-11 13:31:12   1 ms: ../data.zip: 313 files
+2022-08-11 13:31:12   5 ms: Build Date: Jul 29 2022
+2022-08-11 13:31:12   5 ms: Build Info: release; fusion; d3d12=6; d3d11=2; vk=1; gl=45; cu=1
+2022-08-11 13:31:12   5 ms: Build Version: 1.68b
+2022-08-11 13:31:13 241 ms: Name: LNVNB161216 LENOVO
+2022-08-11 13:31:13 241 ms: System: Майкрософт Windows 10 Pro
+2022-08-11 13:31:13 241 ms: Kernel: 10.0.19044
+2022-08-11 13:31:13 241 ms: Memory: 7.79 GB
+2022-08-11 13:31:13 241 ms: Uptime: 3 m 39 s
+2022-08-11 13:31:13 241 ms: CPU: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz
+2022-08-11 13:31:13 241 ms: GPU 0: NVIDIA GeForce RTX 3050 Laptop GPU
+2022-08-11 13:31:13 241 ms: Device: PCI\VEN_10DE&DEV_25A2&SUBSYS_3A5B17AA&REV_A1\4&59AA1C2&0&00E0
+2022-08-11 13:31:13 241 ms: Version: 512.36
+2022-08-11 13:31:13 241 ms: Memory: 4.00 GB
+2022-08-11 13:31:13 241 ms: GPU 1: Intel(R) Iris(R) Xe Graphics
+2022-08-11 13:31:13 241 ms: Device: PCI\VEN_8086&DEV_9A49&SUBSYS_3A5B17AA&REV_01\3&11583659&0&10
+2022-08-11 13:31:13 241 ms: Version: 30.0.101.1960
+2022-08-11 13:31:13 241 ms: Memory: 1.00 GB
+2022-08-11 13:31:13 242 ms: Desktop: 1920x1080 1.0
+2022-08-11 13:31:13 242 ms: Screen 0: 1920x1080 0 0 \\.\DISPLAY1 Intel(R) Iris(R) Xe Graphics
+2022-08-11 13:31:13 242 ms: Creating 1600x900 Vulkan Window
+2022-08-11 13:31:13 570 ms: Render Size: 1600x900
+2022-08-11 13:31:13 570 ms: Using Fetch Mode
+2022-08-11 13:31:13 782 ms: Device: NVIDIA GeForce RTX 3050 Laptop GPU
+2022-08-11 13:31:13 782 ms: Vendor: Nvidia
+2022-08-11 13:31:13 782 ms: Version: 4.0.144.0
+2022-08-11 13:31:13 782 ms: DeviceID: 0x25a2
+2022-08-11 13:31:13 782 ms: Group Memory: 48.00 KB
+2022-08-11 13:31:13 782 ms: Video Memory: 3.90 GB
+2022-08-11 13:31:13 782 ms: Max Uniform Size: 64.00 KB
+2022-08-11 13:31:13 782 ms: Max Storage Size: 4.00 GB
+2022-08-11 13:31:13 782 ms: Creating SceneManager
+2022-08-11 13:31:13 966 ms: Creating RenderManager
+2022-08-11 13:31:14 109 ms: Rasterization Mode
+2022-08-11 13:31:14 109 ms: Creating Scene
+2022-08-11 13:31:15 421 ms: Creating 200,000 Asteroids
+2022-08-11 13:31:15 674 ms: Updating Scene
+2022-08-11 13:31:15 952 ms: GravityMark 1.68b Vulkan is Ready in 3.9 s
+2022-08-11 13:31:15 952 ms: Resizing 1600x900 frame
+2022-08-11 13:31:31 570 ms: Clearing Scene
+2022-08-11 13:31:31 729 ms: GravityMark 1.68b Done
+GravityMark 1.68b Finished (2022-08-11 13:31:12)
